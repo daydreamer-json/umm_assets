@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3256126188382507119
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2650917162335420721
+  },
+  "m_Name": "",
+  "_cameraDistance": 50.0,
+  "_positionArray": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5650734793616038868
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4235591827577534869
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6572581437980757287
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6963620308660925647
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1999849253312858291
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 617287227902485180
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9078676478870565097
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1012648365038636052
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5682693755614298422
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3732697008751494521
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7472607013653442631
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7071769176807915066
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4391322931427896156
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1177037348130452902
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 988253367948735260
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5386651395062421839
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6770917491109581304
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5135116703880159463
+    }
+  ],
+  "_charaRenderTarget": {
+    "m_FileID": 0,
+    "m_PathID": -4580117508723767540
+  },
+  "_bgRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -2286453360095059382
+  },
+  "_charaPlaneRotation": {
+    "x": 24.4,
+    "y": 180.0,
+    "z": 0.0
+  },
+  "_indexPosY": 180.0,
+  "_indexWidth": 60.0
+}

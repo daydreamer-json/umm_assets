@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5957513300170803589
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2650917162335420721
+  },
+  "m_Name": "",
+  "_cameraDistance": 8.5,
+  "_positionArray": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4940312933406740244
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1596513561119914413
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3950566017206735461
+    }
+  ],
+  "_charaRenderTarget": {
+    "m_FileID": 0,
+    "m_PathID": -3100792235775861963
+  },
+  "_bgRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -9005027149415995503
+  },
+  "_charaPlaneRotation": {
+    "x": 0.0,
+    "y": 180.0,
+    "z": 0.0
+  },
+  "_indexPosY": 880.0,
+  "_indexWidth": 180.0
+}

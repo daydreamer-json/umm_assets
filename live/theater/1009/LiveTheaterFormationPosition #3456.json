@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9181598105196734187
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1126231878297564127
+  },
+  "m_Name": "",
+  "_scale": 1.0,
+  "_shadowImage": {
+    "m_FileID": 0,
+    "m_PathID": 2674985558962766980
+  },
+  "_indexRecttrans": {
+    "m_FileID": 0,
+    "m_PathID": 458756251107879138
+  },
+  "_indexText": {
+    "m_FileID": 0,
+    "m_PathID": -9188996882789827480
+  },
+  "_isOverrideIndexPosY": 0,
+  "_overrideIndexPosY": 100.0,
+  "_offsetZ": 0.0,
+  "_shadowScale": 1.0
+}

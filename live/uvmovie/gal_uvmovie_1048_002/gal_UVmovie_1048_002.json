@@ -1,0 +1,21 @@
+{
+  "Name": "gal_UVmovie_1048_002",
+  "ImageCount": 2,
+  "FremePerImage": 12,
+  "FremePerWidth": 3,
+  "FrameInfo": {
+    "Fps": 20,
+    "Count": 20,
+    "StartOffsetSec": 0,
+    "EndOffsetSec": 0,
+    "IsLoop": true,
+    "StartLoopSec": 0,
+    "EndLoopSec": 0,
+    "LoopCount": 0,
+    "Size": {
+      "x": 0.33333333333333,
+      "y": 0.25
+    }
+  },
+  "ExistMaskTex": false
+}

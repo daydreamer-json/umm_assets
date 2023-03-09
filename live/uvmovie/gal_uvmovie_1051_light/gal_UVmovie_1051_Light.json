@@ -1,0 +1,21 @@
+{
+  "Name": "gal_UVmovie_1051_Light",
+  "ImageCount": 1,
+  "FremePerImage": 8,
+  "FremePerWidth": 2,
+  "FrameInfo": {
+    "Fps": 20,
+    "Count": 40,
+    "StartOffsetSec": 0,
+    "EndOffsetSec": 0,
+    "IsLoop": true,
+    "StartLoopSec": 0,
+    "EndLoopSec": 0,
+    "LoopCount": 0,
+    "Size": {
+      "x": 0.5,
+      "y": 0.25
+    }
+  },
+  "ExistMaskTex": false
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "gal_UVmovie_1006_007",
+  "ImageCount": 1,
+  "FremePerImage": 3,
+  "FremePerWidth": 3,
+  "FrameInfo": {
+    "Fps": 18,
+    "Count": 1,
+    "StartOffsetSec": 0,
+    "EndOffsetSec": 0,
+    "IsLoop": true,
+    "StartLoopSec": 0,
+    "EndLoopSec": 0,
+    "LoopCount": 0,
+    "Size": {
+      "x": 0.33333333333333,
+      "y": 1
+    }
+  },
+  "ExistMaskTex": false
+}

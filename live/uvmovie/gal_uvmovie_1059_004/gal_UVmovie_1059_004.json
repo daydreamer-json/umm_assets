@@ -1,0 +1,21 @@
+{
+  "Name": "gal_UVmovie_1059_004",
+  "ImageCount": 1,
+  "FremePerImage": 1,
+  "FremePerWidth": 1,
+  "FrameInfo": {
+    "Fps": 20,
+    "Count": 1,
+    "StartOffsetSec": 0,
+    "EndOffsetSec": 0,
+    "IsLoop": true,
+    "StartLoopSec": 0,
+    "EndLoopSec": 0,
+    "LoopCount": 0,
+    "Size": {
+      "x": 1,
+      "y": 1
+    }
+  },
+  "ExistMaskTex": false
+}
